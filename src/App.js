@@ -11,6 +11,8 @@ import Projects from "./components/sections/Projects";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
 
+
+
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
   width: 100%;
@@ -35,9 +37,13 @@ const Wrapper = styled.div`
 `;
 
 function App() {
+
+  
   return (
     <ThemeProvider theme={darkTheme}>
+
       <BrowserRouter>
+
         <Navbar />
         <Body>
           <StartCanvas />
