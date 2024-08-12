@@ -9,7 +9,7 @@ export const Bio = {
     "Full Stack Intern at Webpoint Technologies | BSc Computer Networking & IT Security Student at Islington College | S5 Weekend and Nights by Buildspace; erevald |Aspiring to Create a Positive Legacy Through Technology",
   github: "https://github.com/itsdavidmandal",
   resume:
-    "https://drive.google.com/file/d/1foRLqLDWArknzHQRY9F5yVzavhoC7TKi/view?usp=drive_link",
+    "https://drive.google.com/file/d/11nGInaJzdzx8KEInPrN-9rendRCU3Cn6/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/itsdavidmandal",
   twitter: "https://twitter.com/itsdavidmandal",
   insta: "https://www.instagram.com/itsdavidmandal/",
